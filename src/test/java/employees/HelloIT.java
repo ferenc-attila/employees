@@ -18,6 +18,4 @@ class HelloIT {
 
         assertThat(message).startsWith("Hello Spring Boot");
     }
-
-
 }
